@@ -1,5 +1,9 @@
 # Bilinear Prompt Tuning: A PyTorch Implementation
 
+
+<div style="text-align:center"><img src="curves/framework.png" width="98%" ></div>
+
+
 This is a PyTorch implementation of the paper [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning]().
 
 [[`arXiv`]()] [[`ICCV'25 paper`]()] [[`Project`]()]
