@@ -1,0 +1,13 @@
+# This is an example test txt.
+001.Black_footed_Albatross/Black_Footed_Albatross_0046_18.jpg 0
+001.Black_footed_Albatross/Black_Footed_Albatross_0002_55.jpg 0
+...
+002.Laysan_Albatross/Laysan_Albatross_0002_1027.jpg 1
+002.Laysan_Albatross/Laysan_Albatross_0082_524.jpg 1
+...
+003.Sooty_Albatross/Sooty_Albatross_0003_1078.jpg 2
+003.Sooty_Albatross/Sooty_Albatross_0044_1105.jpg 2
+...
+...
+200.Common_Yellowthroat/Common_Yellowthroat_0008_190703.jpg 199
+200.Common_Yellowthroat/Common_Yellowthroat_0055_190967.jpg 199
