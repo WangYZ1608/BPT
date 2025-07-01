@@ -6,7 +6,7 @@
 
 This is a PyTorch implementation of the paper [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning]().
 
-[[`arXiv`]()] [[`ICCV'25 paper`]()] [[`Project`]()]
+[[`arXiv`](https://arxiv.org/abs/2506.22908)] [[`ICCV'25 paper`]()] [[`Project`]()]
 
 
 ```BibTeX
