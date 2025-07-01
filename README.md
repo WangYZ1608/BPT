@@ -4,7 +4,7 @@
 <div style="text-align:center"><img src="curves/framework.png" width="98%" ></div>
 
 
-This is a PyTorch implementation of the paper [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning]().
+This is a PyTorch implementation of the paper [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning](https://arxiv.org/abs/2506.22908).
 
 [[`arXiv`](https://arxiv.org/abs/2506.22908)] [[`ICCV'25 paper`]()] [[`Project`]()]
 
