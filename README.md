@@ -4,15 +4,15 @@
 <div style="text-align:center"><img src="curves/framework.png" width="98%" ></div>
 
 
-This is a PyTorch implementation of the paper [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning](https://arxiv.org/abs/2506.22908).
+This is a PyTorch implementation of the paper [Attention to the Burstiness in Visual Prompt Tuning!](https://arxiv.org/abs/2506.22908).
 
-[[`arXiv`](https://arxiv.org/abs/2506.22908)] [[`ICCV'25 paper`]()] [[`Project`]()]
+[[`arXiv`](https://arxiv.org/abs/2506.22908)] [[`ICCV'25 paper`](https://arxiv.org/abs/2506.22908)]
 
 
 ```BibTeX
 @InProceedings{wang2025attention,
   author  = {Yuzhu Wang and Manni Duan and Shu Kong},
-  title   = {Attention to Burstiness: Low-Rank Bilinear Prompt Tuning},
+  title   = {Attention to the Burstiness in Visual Prompt Tuning!},
   booktitle = {International Conference on Computer Vision (ICCV)},
   year    = {2025},
 }
