@@ -6,8 +6,6 @@
 
 This is a PyTorch implementation of the paper [Attention to the Burstiness in Visual Prompt Tuning!](https://arxiv.org/abs/2506.22908).
 
-[[`arXiv`](https://arxiv.org/abs/2506.22908)] [[`ICCV'25 paper`](https://arxiv.org/abs/2506.22908)]
-
 
 ```BibTeX
 @InProceedings{wang2025attention,
